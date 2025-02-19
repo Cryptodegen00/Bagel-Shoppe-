@@ -4,8 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bagel Shoppe'</title>
+    <style>
+        p {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 1.5em;
+            font-weight: bold;
+            color: blue;
+        }
+    </style>
 </head>
 <body>
-    
+    <h1>Welcome to the Bagel Shoppe'</h1>
+    <p>Our bagels are the best in the world!</p>
 </body>
 </html>
